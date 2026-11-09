@@ -1,0 +1,7 @@
+Test 1: SUCCESS | 0.229 seconds | Temperature: 14.8 °C | Precipitation: 0.0 mm
+Test 2: SUCCESS | 0.430 seconds | Temperature: 14.8 °C | Precipitation: 0.0 mm
+Test 3: SUCCESS | 0.323 seconds | Temperature: 14.8 °C | Precipitation: 0.0 mm
+Test 4: SUCCESS | 0.219 seconds | Temperature: 14.8 °C | Precipitation: 0.0 mm
+Test 5: SUCCESS | 0.574 seconds | Temperature: 14.8 °C | Precipitation: 0.0 mm
+
+5 successful requests out of 5 tests. Average response time: 0.355 seconds.
